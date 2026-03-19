@@ -92,8 +92,8 @@ Los subtemas están ordenados de forma lógica y progresiva, partiendo de lo má
 
 | Característica | Descripción |
 |----------------|-------------|
-| **Institución** | Jardín Infantil y Colegio Rey Carlos II — USAC, Ciudad de Guatemala |
-| **Coordinadora de la institución** | Licenciada Cindy Acevedo |
+| **Institución** |  |
+| **Coordinadora de la institución** |  |
 | **Rango de edad** | Hasta 7 años (aproximadamente 4 a 7 años) |
 | **Nivel de escolaridad** | Pre-primaria y primero primaria |
 | **Conocimientos previos** | Uso intuitivo de dispositivos en casa; sin comprensión técnica de internet |
@@ -187,10 +187,10 @@ Documento base presentado durante la discusión del equipo. Contenía:
 | Actividad evaluada | Decisión | Justificación |
 |--------------------|----------|---------------|
 | Teléfono descompuesto |  Rompehielos | No requiere leer ni escribir, genera risa natural, conecta con el tema |
-| Kahoot interactivo |  Descartado | Los niños de hasta 7 años no pueden leer las preguntas en pantalla |
+| Kahoot interactivo |  Descartado | Los niños de hasta 7 años se aburren de  leer las preguntas en pantalla |
 | Robot humano (instrucciones paso a paso) |  Descartado | Más apropiado para el tema de pensamiento algorítmico |
 | Juego de carteros (pasar sobres en fila) |  Actividad principal | Completamente física, una sola regla simple, resultado inmediato y celebrable |
-| Encuesta con Google Forms |  Descartado | Requiere lectura; no apta para este público |
+| Encuesta con Google Forms |  Descartado | Requiere lectura extensa; no apta para este público |
 | Preguntas físicas (aplaudir / sentarse) |  Validación del aprendizaje | Oral y física, sin leer ni escribir, rápida y efectiva |
 
 ### 5.5 Organización del equipo y asignación de roles
@@ -261,15 +261,7 @@ Cada expositor presenta su subtema en 8 minutos. Estructura interna de cada subt
 
 ### 6.3 Actividad de Participación (8 minutos) — Todo el equipo
 
-**Nombre:** Los carteros del internet.
 
-**Descripción:** Los niños forman 3 grupos y pasan sobres de colores de mano en mano hasta depositarlos en una caja-destino decorada como computadora. Al reunir las 3 piezas del dibujo (carita feliz dividida en 3 partes) se arma la imagen completa y todos celebran: "¡El mensaje llegó!"
-
-**Materiales necesarios:**
-- 3 sobres de colores (rojo, azul, amarillo), cada uno con una pieza del dibujo adentro.
-- 1 caja de cartón decorada con dibujos de computadora como "destino".
-
-**Relación con el contenido:** La actividad representa de forma concreta el viaje de los paquetes de datos desde el origen hasta el destino, reforzando el subtema 3 y el subtema 4.
 
 ### 6.4 Validación del Aprendizaje (2 minutos) — Jeimy González
 

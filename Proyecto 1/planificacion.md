@@ -304,13 +304,6 @@ Cada expositor presenta su subtema en 8 minutos. Estructura interna de cada subt
 | Presentación de diapositivas | PowerPoint / Canva | Danya Nicolle Gámez | Previo a la capacitación |
 | Repositorio GitHub | **CA_S1_G3** / carpeta **Proyecto1** | Jeimy González | 24/03/2026 |
 
-> **Notas importantes:**
-> - El repositorio debe llamarse exactamente **CA_S1_G3**.
-> - El coordinador del grupo debe crearlo y agregar al auxiliar de la sección como colaborador.
-> - El video de ejecución debe ser **público** en YouTube; de no serlo se aplica penalización.
-> - Los informes **no se aceptan en formato PDF**.
-> - **No se otorga prórroga para la entrega.**
-
 ---
 
 *Documento de Planificación — Proyecto No. 1 | Comunicación Asertiva | Sección A, Grupo 3 | USAC 2026*

@@ -78,11 +78,11 @@ Los subtemas están ordenados de forma lógica y progresiva, partiendo de lo má
 | 0:58 — 1:00 | 2 min | **Cierre** | Jeimy González | Resumen de 3 puntos clave levantando un dedo por cada uno, reflexión breve sobre la importancia del tema, agradecimiento a la institución y espacio para preguntas. |
 
 > **Verificación de tiempos según el enunciado:**
-> - Introducción: 5 min ✅ (máximo permitido: 5 min)
-> - Desarrollo (subtemas 1 al 5): 40 min ✅ (mínimo requerido: 40 min)
-> - Actividades de participación: 8 min ✅ (rango permitido: 8 a 10 min)
-> - Cierre: 2 min ✅ (máximo permitido: 5 min)
-> - **Total: 60 minutos** ✅
+> - Introducción: 5 min  (máximo permitido: 5 min)
+> - Desarrollo (subtemas 1 al 5): 40 min  (mínimo requerido: 40 min)
+> - Actividades de participación: 8 min  (rango permitido: 8 a 10 min)
+> - Cierre: 2 min  (máximo permitido: 5 min)
+> - **Total: 60 minutos** 
 
 ---
 
@@ -162,9 +162,9 @@ Documento base presentado durante la discusión del equipo. Contenía:
 
 | Tema considerado | Ventajas | Desventajas | Decisión |
 |-----------------|----------|-------------|----------|
-| ¿Cómo piensa una computadora? | Fácil de dividir; actividad física obvia (robot humano) | Mayor abstracción para niños de 4 a 5 años | ❌ Descartado |
-| **Internet: ¿Cómo viaja la información?** | Relevante, adaptable con analogías, 5 subtemas claros | Requiere cuidado para evitar tecnicismos | ✅ Seleccionado |
-| Inteligencia Artificial en la vida cotidiana | Tema de actualidad con muchos ejemplos | Demasiado abstracto para niños de hasta 7 años | ❌ Descartado |
+| ¿Cómo piensa una computadora? | Fácil de dividir; actividad física obvia (robot humano) | Mayor abstracción para niños de 4 a 5 años |  Descartado |
+| **Internet: ¿Cómo viaja la información?** | Relevante, adaptable con analogías, 5 subtemas claros | Requiere cuidado para evitar tecnicismos |  Seleccionado |
+| Inteligencia Artificial en la vida cotidiana | Tema de actualidad con muchos ejemplos | Demasiado abstracto para niños de hasta 7 años |  Descartado |
 
 **Justificación del tema seleccionado:** Internet es parte del día a día del público desde muy temprana edad, puede explicarse completamente con analogías concretas y se divide de forma natural en exactamente 5 subtemas, uno por integrante.
 
@@ -172,26 +172,26 @@ Documento base presentado durante la discusión del equipo. Contenía:
 
 | Subtema evaluado | Decisión | Justificación |
 |-----------------|----------|---------------|
-| ¿Qué es internet? | ✅ Incluido | Punto de partida esencial; adaptable con la analogía del pueblo |
-| Historia de internet | ❌ Descartado | Poco interactivo y de baja relevancia para niños de esta edad |
-| ¿Con qué nos conectamos? | ✅ Incluido | Los niños ya conocen los dispositivos; fácil de hacer interactivo |
-| Direcciones IP | ❌ Descartado | Demasiado técnico para el público objetivo |
-| Paquetes de datos ("carteros") | ✅ Incluido | Conecta directamente con la actividad interactiva del juego |
-| Velocidad de internet | ❌ Descartado | No adaptable a lenguaje infantil sin generar confusión |
-| ¿Cómo llega el mensaje? (enrutamiento) | ✅ Incluido | Complementa el subtema anterior; la analogía del tren es muy visual |
-| Tipos de redes (LAN, WAN) | ❌ Descartado | Abstracción innecesaria para la comprensión básica |
-| Internet con cuidado (seguridad) | ✅ Incluido | Relevante y formativo; cierra la secuencia con un mensaje de valor |
+| ¿Qué es internet? |  Incluido | Punto de partida esencial; adaptable con la analogía del pueblo |
+| Historia de internet |  Descartado | Poco interactivo y de baja relevancia para niños de esta edad |
+| ¿Con qué nos conectamos? | Incluido | Los niños ya conocen los dispositivos; fácil de hacer interactivo |
+| Direcciones IP | Descartado | Demasiado técnico para el público objetivo |
+| Paquetes de datos ("carteros") | Incluido | Conecta directamente con la actividad interactiva del juego |
+| Velocidad de internet |  Descartado | No adaptable a lenguaje infantil sin generar confusión |
+| ¿Cómo llega el mensaje? (enrutamiento) |  Incluido | Complementa el subtema anterior; la analogía del tren es muy visual |
+| Tipos de redes (LAN, WAN) |  Descartado | Abstracción innecesaria para la comprensión básica |
+| Internet con cuidado (seguridad) |  Incluido | Relevante y formativo; cierra la secuencia con un mensaje de valor |
 
 ### 5.4 Lluvia de ideas — Diseño de actividades
 
 | Actividad evaluada | Decisión | Justificación |
 |--------------------|----------|---------------|
-| Teléfono descompuesto | ✅ Rompehielos | No requiere leer ni escribir, genera risa natural, conecta con el tema |
-| Kahoot interactivo | ❌ Descartado | Los niños de hasta 7 años no pueden leer las preguntas en pantalla |
-| Robot humano (instrucciones paso a paso) | ❌ Descartado | Más apropiado para el tema de pensamiento algorítmico |
-| Juego de carteros (pasar sobres en fila) | ✅ Actividad principal | Completamente física, una sola regla simple, resultado inmediato y celebrable |
-| Encuesta con Google Forms | ❌ Descartado | Requiere lectura; no apta para este público |
-| Preguntas físicas (aplaudir / sentarse) | ✅ Validación del aprendizaje | Oral y física, sin leer ni escribir, rápida y efectiva |
+| Teléfono descompuesto |  Rompehielos | No requiere leer ni escribir, genera risa natural, conecta con el tema |
+| Kahoot interactivo |  Descartado | Los niños de hasta 7 años no pueden leer las preguntas en pantalla |
+| Robot humano (instrucciones paso a paso) |  Descartado | Más apropiado para el tema de pensamiento algorítmico |
+| Juego de carteros (pasar sobres en fila) |  Actividad principal | Completamente física, una sola regla simple, resultado inmediato y celebrable |
+| Encuesta con Google Forms |  Descartado | Requiere lectura; no apta para este público |
+| Preguntas físicas (aplaudir / sentarse) |  Validación del aprendizaje | Oral y física, sin leer ni escribir, rápida y efectiva |
 
 ### 5.5 Organización del equipo y asignación de roles
 
@@ -221,13 +221,13 @@ Mediante 5 preguntas orales al final de la capacitación con respuesta física (
 
 | Sección | Tiempo asignado | Referencia del enunciado | Cumple |
 |---------|----------------|--------------------------|--------|
-| Introducción | 5 minutos | Máximo 5 minutos | ✅ |
-| Rompehielos | 3 minutos | Incluido dentro de la introducción | ✅ |
-| Desarrollo (5 subtemas × 8 min) | 40 minutos | Mínimo 40 minutos | ✅ |
-| Actividad de participación | 8 minutos | Entre 8 y 10 minutos | ✅ |
-| Validación del aprendizaje | 2 minutos | Parte del cierre | ✅ |
-| Cierre | 2 minutos | Máximo 5 minutos | ✅ |
-| **Total** | **60 minutos** | 50 a 60 minutos | ✅ |
+| Introducción | 5 minutos | Máximo 5 minutos | |
+| Rompehielos | 3 minutos | Incluido dentro de la introducción |  |
+| Desarrollo (5 subtemas × 8 min) | 40 minutos | Mínimo 40 minutos |  |
+| Actividad de participación | 8 minutos | Entre 8 y 10 minutos | |
+| Validación del aprendizaje | 2 minutos | Parte del cierre |  |
+| Cierre | 2 minutos | Máximo 5 minutos | |
+| **Total** | **60 minutos** | 50 a 60 minutos |  |
 
 ---
 
@@ -273,15 +273,15 @@ Cada expositor presenta su subtema en 8 minutos. Estructura interna de cada subt
 
 ### 6.4 Validación del Aprendizaje (2 minutos) — Jeimy González
 
-5 preguntas orales con respuesta corporal: **aplauden si es SÍ, se sientan si es NO.**
+5 preguntas orales con respuesta corporal: **aplauden si es SÍ, cruzan los brazos si es NO.**
 
 | # | Pregunta | Respuesta correcta |
 |---|----------|--------------------|
-| 1 | ¿Internet conecta a las personas? | SÍ 👏 |
-| 2 | ¿Podemos usar internet sin pedirle permiso a un adulto? | NO 🪑 |
-| 3 | ¿La información viaja en sobrecitos llamados paquetes? | SÍ 👏 |
-| 4 | ¿Podemos decirle nuestro nombre a desconocidos en internet? | NO 🪑 |
-| 5 | ¿El internet llega a nuestras casas por el Wi-Fi? | SÍ 👏 |
+| 1 | ¿Internet conecta a las personas? | SÍ  |
+| 2 | ¿Podemos usar internet sin pedirle permiso a un adulto? | NO  |
+| 3 | ¿La información viaja en sobrecitos llamados paquetes? | SÍ  |
+| 4 | ¿Podemos decirle nuestro nombre a desconocidos en internet? | NO  |
+| 5 | ¿El internet llega a nuestras casas por el Wi-Fi? | SÍ  |
 
 ### 6.5 Cierre (2 minutos) — Jeimy González
 

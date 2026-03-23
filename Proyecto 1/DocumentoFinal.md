@@ -13,7 +13,7 @@
 | Jeimy González  | 202504807 |
 | Danya Nicolle Gámez Ruiz |  |
 | Angee Ximena Chojolan Oliva | |
-| Jose Carlos González López | |
+| Jose Carlos González López | 202505069 |
 | Carlos Alberto Alonso Loarca | 202505558 |
 | Astrid Alejandra Sánchez Pérez | |
 
@@ -150,8 +150,6 @@ Al finalizar la exposición, se realizó una validación oral y física: la coor
 ---
  
 #### Jose Carlos González López — Expositor, Subtema 3
-
----
 
 **Fortalezas**
 - Utilicé una analogía clara y adecuada para niños (los sobrecitos), lo que facilitó la comprensión.

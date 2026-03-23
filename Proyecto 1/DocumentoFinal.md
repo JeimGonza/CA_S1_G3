@@ -100,6 +100,27 @@ Al finalizar la exposición, se realizó una validación oral y física: la coor
 
 #### Jeimy González — Coordinadora & Presentadora Principal
 
+**Fortalezas**
+
+- Capacidad de adaptación en tiempo real: al notar que los niños comenzaban a inquietarse o aburrirse durante la conferencia, tomé la decisión espontánea de incorporar una mini actividad no planificada, levantándolos de sus asientos y guiándolos a repetir ejercicios de movimiento, logrando recuperar su atención y energía de forma efectiva.
+- Liderazgo activo durante toda la capacitación: mantuve el rol de hilo conductor del grupo, gestionando las transiciones entre expositores, el manejo del público y la dinámica general de la sesión sin perder la presencia frente al público.
+
+
+**Oportunidades**
+
+- Este proyecto me permitió descubrir y desarrollar habilidades para comunicarme con públicos muy distintos al habitual, específicamente el público infantil, lo que amplió mi perspectiva sobre la adaptabilidad que exige la comunicación asertiva en diferentes contextos.
+- La experiencia de coordinar un equipo de seis personas en una actividad presencial real me brindó herramientas de liderazgo y organización que no había tenido la oportunidad de practicar antes en un entorno académico formal.
+
+**Debilidades**
+
+- El manejo del tiempo representó uno de mis mayores retos durante la ejecución: como coordinadora debía monitorear el cronograma de forma discreta y simultánea a mis intervenciones frente al público, lo que en algunos momentos generó tensión y dificultó mantener el ritmo planificado.
+- Al no tener experiencia previa trabajando con niños, los primeros minutos de la capacitación resultaron desafiantes, ya que requirieron un proceso de adaptación inmediata a la dinámica y energía del público infantil.
+
+**Amenazas**
+
+- La incertidumbre sobre cómo reaccionaría el público infantil ante situaciones inesperadas (un niño llorando, comportamientos disruptivos, pérdida de atención generalizada) representó una fuente constante de tensión previa y durante la ejecución, al no contar con experiencia previa en este tipo de escenarios.
+- La inquietud natural de los niños como característica del público objetivo fue un factor externo que escapaba al control del grupo y que exigió estrategias de manejo no contempladas originalmente en la planificación.
+
 ---
  
 #### Danya Nicolle Gámez Ruiz — Expositora, Subtema 1

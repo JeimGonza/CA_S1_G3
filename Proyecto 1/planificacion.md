@@ -86,10 +86,10 @@ Los subtemas están ordenados de forma lógica y progresiva, partiendo de lo má
 
 | Característica | Descripción |
 |----------------|-------------|
-| **Institución** | Jardín Infantil y Colegio Rey Carlos II — USAC, Ciudad de Guatemala |
-| **Coordinadora de la institución** | Licenciada Cindy Acevedo |
+| **Institución** |Colegio Cristiano la Enseñanza Feliz  |
+| **Coordinadora de la institución** | Licenciada Betty Herrera |
 | **Rango de edad** | Hasta 7 años (aproximadamente 4 a 7 años) |
-| **Nivel de escolaridad** | Pre-primaria y primero primaria |
+| **Nivel de escolaridad** |  primero primaria |
 | **Conocimientos previos** | Uso intuitivo de dispositivos en casa; sin comprensión técnica de internet |
 | **Características cognitivas** | Pensamiento concreto, atención de corta duración (5 a 10 min por actividad), aprendizaje por repetición, alta respuesta al movimiento y al juego |
 | **Características emocionales** | Alta receptividad al entusiasmo del presentador, responden al refuerzo positivo, necesitan un ambiente seguro y divertido |
@@ -139,7 +139,7 @@ Cada subtema dura exactamente 8 minutos, respetando el umbral de atención del p
 
 - Aplausos al finalizar cada subtema.
 - Frases de motivación después de cada participación del público.
-- Cierre con reconocimiento explícito: "¡Fueron los mejores exploradores del internet de hoy!"
+- Cierre con reconocimiento explícito: "¡Fueron los mejores exploradores del internet!"
 
 ---
 
@@ -200,7 +200,7 @@ Documento base presentado durante la discusión del equipo. Contenía:
 
 ### 5.6 Análisis del público y objetivos de aprendizaje
 
-**Público objetivo:** Niños de hasta 7 años del Jardín Infantil y Colegio Rey Carlos II (USAC).
+**Público objetivo:** Niños de hasta 7 años.
 
 **Conocimientos que se espera que el público adquiera al finalizar la capacitación:**
 1. Comprender que internet es una red que conecta personas y dispositivos.
@@ -257,11 +257,10 @@ Cada expositor presenta su subtema en 8 minutos. Estructura interna de cada subt
 
 **Nombre:** Los carteros del internet.
 
-**Descripción:** Los niños forman 3 grupos y pasan sobres de colores de mano en mano hasta depositarlos en una caja-destino decorada como computadora. Al reunir las 3 piezas del dibujo (carita feliz dividida en 3 partes) se arma la imagen completa y todos celebran: "¡El mensaje llegó!"
+**Descripción:** Se dividira en cuatro rondas del juego papa caliente, en donde los niños pasaran los correspondientes sobres.
 
 **Materiales necesarios:**
-- 3 sobres de colores (rojo, azul, amarillo), cada uno con una pieza del dibujo adentro.
-- 1 caja de cartón decorada con dibujos de computadora como "destino".
+- 4 sobres de papel, cada uno con una pieza del dibujo adentro.
 
 **Relación con el contenido:** La actividad representa de forma concreta el viaje de los paquetes de datos desde el origen hasta el destino, reforzando el subtema 3 y el subtema 4.
 

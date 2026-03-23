@@ -14,7 +14,7 @@
 | Danya Nicolle Gámez Ruiz |  |
 | Angee Ximena Chojolan Oliva | |
 | Jose Carlos González López | |
-| Carlos Alberto Alonso Loarca | |
+| Carlos Alberto Alonso Loarca | 202505558 |
 | Astrid Alejandra Sánchez Pérez | |
 
 ---

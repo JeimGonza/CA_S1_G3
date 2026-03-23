@@ -59,8 +59,9 @@ La estrategia central de adaptación consistió en reemplazar cada concepto téc
 ### 3.2 Subtemas Desarrollados
  
 #### Subtema 1 — ¿Qué es Internet? *(Danya Nicolle Gámez)*
- 
-Se introdujo el concepto de internet utilizando la analogía de los **caminos de un pueblo de juguete** que conecta todas las casitas. Se mostraron imágenes coloridas de una ciudad interconectada y se repitió con los niños el mensaje clave: *"¡Internet conecta a las personas!"* La exposición incluyó preguntas directas al público para activar sus saberes previos sobre el uso cotidiano de internet.
+
+Durante la actividad se inició preguntas para conocer las experiencias previas de los estudiantes con el uso cotidiano de internet, promoviendo la interacción activa. Tambien se explicó el funcionamiento del internet mediante una analogía didáctica, comparándolo con caminos que conectan casas en un pueblo, facilitando la comprensión del concepto de conexión entre dispositivos. Se presentaron ejemplos sencillos sobre el envío y recepción de información, destacando la rapidez con la que viajan los datos y enfatizando que, aunque parezca magia, se trata de tecnología.
+Se dio a entender que el internet no solo conecta aparatos electrónicos, sino también personas en distintas partes del mundo, permitiendo la comunicación, el aprendizaje, el entretenimiento y el acceso a información. Asimismo, se resaltó su importancia en la vida diaria mediante preguntas participativas dirigidas al grupo. Al final se hizo una definición clara y comprensible del concepto de internet, reafirmando su función como una red global que permite compartir información de manera rápida y eficiente.
  
 #### Subtema 2 — ¿Con qué nos conectamos? *(Angee Ximena Chojolan)*
 Se explicó el tema de cómo nos conectamos a Internet utilizando ejemplos sencillos de la vida diaria, comparando al internet saliendo como telarañas invisibles desde la cajita mágica hacia cada uno de los dispositivos. Se mostraron ejemplos como celulares, computadoras y tablets, y se explicaron las formas de conexión como el WiFi, los cables y los datos móviles. También se mencionó el uso del router (cajita mágica) como el aparato que reparte el Internet en casa. Durante la actividad, se hicieron preguntas a los niños para que compartieran sus experiencias, retroalimentando sus conocimientos.

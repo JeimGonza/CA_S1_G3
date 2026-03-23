@@ -83,12 +83,12 @@ Se abordó la seguridad básica en internet a través de un cuento corto protago
 3. Si algo me asusta en internet, le digo a un adulto de confianza.
  
 ### 3.3 Actividad Interactiva — "Los carteros del internet"
- 
-Los niños fueron divididos en tres grupos. Cada grupo recibió un sobre de color (rojo, azul, amarillo) con una pieza de una carita feliz adentro. A la señal, los niños pasaron el sobre de mano en mano hasta depositarlo en una caja decorada como computadora. Al reunir las tres piezas, la carita feliz quedó completa y todos celebraron: *"¡El mensaje llegó!"* La actividad reforzó de forma concreta y física los conceptos de paquetes de datos y destino.
- 
+
+Durante toda la conferencia se realizaron diferentes actividades para reforzar conocimientos y evitar el aburrimiento de los niños. Entre esas actividades se realizo la de "El cartero" se entrego cuatro sobres en cuatro diferentes rondas del juego papa caliente, la finalidad es demostrar como un mensaje puede viajar en desorden pero al final siempre llagara en un orden.
+
 ### 3.4 Validación del Aprendizaje
  
-Al finalizar la exposición, se realizó una validación oral y física: la coordinadora realizó cinco preguntas de verdadero o falso y los niños respondieron aplaudiendo (SÍ) o sentándose en el piso (NO). Las cinco preguntas cubrieron los conceptos principales de cada subtema y no requirieron lectura ni escritura por parte del público.
+Al finalizar la exposición, se realizó una validación oral y física: la coordinadora realizó cinco preguntas de verdadero o falso y los niños respondieron aplaudiendo (SÍ) o cruzando los brazos (NO). Las cinco preguntas cubrieron los conceptos principales de cada subtema y no requirieron lectura ni escritura por parte del público.
  
 ---
 

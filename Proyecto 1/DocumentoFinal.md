@@ -152,6 +152,33 @@ Al finalizar la exposición, se realizó una validación oral y física: la coor
 #### Jose Carlos González López — Expositor, Subtema 3
 
 ---
+
+**Fortalezas**
+- Utilicé una analogía clara y adecuada para niños (los sobrecitos), lo que facilitó la comprensión.
+- Logré explicar un tema complejo de forma sencilla y visual.
+- Mantuve la atención de los niños mediante preguntas e interacción constante.
+- Hice uso de material visual (ilustración) para reforzar la explicación.
+- Tuve una actitud dinámica y amigable, adecuada para la edad del público.
+
+**Oportunidades**
+- Puedo mejorar el uso de más recursos didácticos, como juegos o materiales físicos (tarjetas, sobres reales).
+- Existe la posibilidad de hacer la explicación aún más participativa involucrando a más niños.
+- Puedo practicar más para mejorar la entonación y el ritmo al hablar.
+- Se puede reforzar el aprendizaje con más ejemplos o repeticiones simples.
+
+**Debilidades**
+- En algunos momentos pude haber hablado demasiado rápido o demasiado lento.
+- Dependí un poco del guion en lugar de hablar con total naturalidad.
+- La explicación pudo ser un poco larga para la edad de los niños en ciertas partes.
+- Pude haber usado más movimientos o expresiones corporales para captar atención.
+
+**Amenazas**
+- La distracción de los niños puede dificultar mantener su atención durante toda la explicación.
+- El tiempo limitado puede impedir desarrollar completamente la actividad.
+- Problemas con el material visual (que no se vea bien o no funcione).
+- Diferencias en el nivel de comprensión de los niños pueden hacer que algunos no entiendan al mismo ritmo.
+  
+---
  
 #### Carlos Alberto Alonso Loarca — Expositor, Subtema 4
 | **Fortalezas** | **Oportunidades** |
@@ -216,6 +243,20 @@ El siguiente análisis refleja el desempeño colectivo del Grupo 3, Sección A, 
 ---
 
 ### Anexo C — Fotografías de la Capacitación
+
+---
+
+![WhatsApp Image 2026-03-19 at 10 38 11 AM](https://github.com/user-attachments/assets/de040aa4-ec68-48a5-95a9-190d1a920f02)
+![WhatsApp Image 2026-03-19 at 10 38 10 AM](https://github.com/user-attachments/assets/b594107f-bb09-4184-8d31-772f4c74304d)
+![WhatsApp Image 2026-03-19 at 10 38 10 AM (1)](https://github.com/user-attachments/assets/75d140ec-317b-4af0-b431-43b232ba687d)
+![WhatsApp Image 2026-03-19 at 10 38 08 AM (1)](https://github.com/user-attachments/assets/e7708f5a-14da-4f3e-ac35-db56b6c41b68)
+![WhatsApp Image 2026-03-19 at 10 38 08 AM](https://github.com/user-attachments/assets/9213a81d-f400-4884-be9d-734cb5ae02cc)
+![WhatsApp Image 2026-03-19 at 10 38 02 AM](https://github.com/user-attachments/assets/aed9a46e-c1c5-47aa-b306-a17b59ed38f9)
+![WhatsApp Image 2026-03-19 at 10 38 02 AM (2)](https://github.com/user-attachments/assets/e62e8b95-e947-416e-9818-8bafadae1590)
+![WhatsApp Image 2026-03-19 at 10 38 02 AM (1)](https://github.com/user-attachments/assets/dd0d5b72-0f2b-4bb7-b2c1-2053cab4f118)
+![WhatsApp Image 2026-03-19 at 10 38 00 AM](https://github.com/user-attachments/assets/1b7f8246-797c-455e-a8bd-ee59f51b3fdc)
+![WhatsApp Image 2026-03-19 at 10 37 58 AM](https://github.com/user-attachments/assets/d262b494-733f-41df-9008-596bb1b4dd5b)
+![1](https://github.com/user-attachments/assets/66cdcb4e-5945-4340-aa61-9ccc43df22b0)
 
 ---
 

@@ -12,10 +12,10 @@
 |-----------|-------|
 | Jeimy González  | 202504807 |
 | Danya Nicolle Gómez Ruiz | 202503869 |
-| Angee Ximena Chojolan Oliva | |
+| Angee Ximena Chojolan Oliva | 202505018 |
 | Jose Carlos González López | 202505069 |
 | Carlos Alberto Alonso Loarca | 202505558 |
-| Astrid Alejandra Sánchez Pérez | |
+| Astrid Alejandra Sánchez Pérez | 202503945 |
 
 ---
 
@@ -203,12 +203,24 @@ Al finalizar la exposición, se realizó una validación oral y física: la coor
 ---
  
 #### Carlos Alberto Alonso Loarca — Expositor, Subtema 4
-| **Fortalezas** | **Oportunidades** |
-| :--- | :--- |
-| Escucha activa a las dudas de los niños o a sus opiniones | Aprendizaje para mantener la calma en situaciones fuera del circulo de confort |
-| **Debilidades** | **Amenazas** |
-| Nerviosismo por ser la primera vez interactuando con niños | Trafico en carreteras para llegar a la conferencia a tiempo |
-| Olvidarme de lo que debo decir del guión por la presión de terminar lo mas rapido posible | Presión por cumplir con el tiempo establecido para mi presentación |
+
+**Fortalezas**
+
+ - Escucha activa a las dudas de los niños o a sus opiniones
+   
+**Oportunidades**
+
+ - Aprendizaje para mantener la calma en situaciones fuera del circulo de confort
+  
+**Debilidades**
+
+ - Nerviosismo por ser la primera vez interactuando con niños
+ - Olvidarme de lo que debo decir del guión por la presión de terminar lo mas rapido posible
+  
+**Amenazas**
+
+  - Trafico en carreteras para llegar a la conferencia a tiempo
+  - Presión por cumplir con el tiempo establecido para mi presentación
 
 ---
  
@@ -216,23 +228,23 @@ Al finalizar la exposición, se realizó una validación oral y física: la coor
 
 **Fortalezas**
 
-· Diseñé e implementé un cuento corto con un personaje (Sofía) que facilitó la conexión emocional de los niños con el tema de seguridad digital, logrando captar su atención a través de una narrativa familiar.
-· Estructuré las reglas de seguridad como un "código de superhéroe" con gestos asociados, lo que permitió que los niños repitieran y recordaran la información sin necesidad de leer, adaptándome a su nivel de desarrollo.
-· Utilicé un lenguaje claro, tono de voz alegre y contacto visual constante para mantener el interés del público infantil durante mi intervención.
+- Diseñé e implementé un cuento corto con un personaje (Sofía) que facilitó la conexión emocional de los niños con el tema de seguridad digital, logrando captar su atención a través de una narrativa familiar.
+- Estructuré las reglas de seguridad como un "código de superhéroe" con gestos asociados, lo que permitió que los niños repitieran y recordaran la información sin necesidad de leer, adaptándome a su nivel de desarrollo.
+- Utilicé un lenguaje claro, tono de voz alegre y contacto visual constante para mantener el interés del público infantil durante mi intervención.
 
 **Oportunidades**
 
-· Este proyecto me permitió fortalecer mis habilidades para explicar conceptos técnicos (seguridad digital) a una audiencia no especializada y con características muy particulares, como lo es la infantil, lo cual es un desafío valioso para mi formación profesional.
-· La experiencia de facilitar una actividad interactiva con niños me brindó herramientas prácticas para manejar la control de dinámicas grupales en tiempo real, una competencia que puedo aplicar en futuros proyectos.
+- Este proyecto me permitió fortalecer mis habilidades para explicar conceptos técnicos (seguridad digital) a una audiencia no especializada y con características muy particulares, como lo es la infantil, lo cual es un desafío valioso para mi formación profesional.
+- La experiencia de facilitar una actividad interactiva con niños me brindó herramientas prácticas para manejar la control de dinámicas grupales en tiempo real, una competencia que puedo aplicar en futuros proyectos.
 
 **Debilidades**
 
-· Aunque el cuento y las reglas estaban bien planificados, en el momento de la ejecución sentí cierta rigidez al seguir el guion, lo que limitó mi capacidad de improvisación cuando algunos niños respondían de forma inesperada o se distraían.
-· Mi experiencia previa trabajando con niños era limitada, por lo que en los primeros momentos de mi intervención me costó encontrar el ritmo adecuado para hacer pausas y esperar las respuestas del público sin apresurarme.
+- Aunque el cuento y las reglas estaban bien planificados, en el momento de la ejecución sentí cierta rigidez al seguir el guion, lo que limitó mi capacidad de improvisación cuando algunos niños respondían de forma inesperada o se distraían.
+- Mi experiencia previa trabajando con niños era limitada, por lo que en los primeros momentos de mi intervención me costó encontrar el ritmo adecuado para hacer pausas y esperar las respuestas del público sin apresurarme.
 
 **Amenazas**
 
-· La energía y atención cambiante de los niños representó una amenaza constante: a pesar de tener gestos y repeticiones planificadas, existía el riesgo de que el grupo perdiera el hilo del cuento o de las reglas si algún niño se dispersaba o interrumpía.
+- La energía y atención cambiante de los niños representó una amenaza constante: a pesar de tener gestos y repeticiones planificadas, existía el riesgo de que el grupo perdiera el hilo del cuento o de las reglas si algún niño se dispersaba o interrumpía.
 
 ---
  
@@ -291,22 +303,21 @@ Ver video en YouTube: https://youtu.be/aCP-giAH9Mg
 
 ---
 
-![WhatsApp Image 2026-03-19 at 10 38 11 AM](https://github.com/user-attachments/assets/de040aa4-ec68-48a5-95a9-190d1a920f02)
-![WhatsApp Image 2026-03-19 at 10 38 10 AM](https://github.com/user-attachments/assets/b594107f-bb09-4184-8d31-772f4c74304d)
-![WhatsApp Image 2026-03-19 at 10 38 10 AM (1)](https://github.com/user-attachments/assets/75d140ec-317b-4af0-b431-43b232ba687d)
-![WhatsApp Image 2026-03-19 at 10 38 08 AM (1)](https://github.com/user-attachments/assets/e7708f5a-14da-4f3e-ac35-db56b6c41b68)
-![WhatsApp Image 2026-03-19 at 10 38 08 AM](https://github.com/user-attachments/assets/9213a81d-f400-4884-be9d-734cb5ae02cc)
-![WhatsApp Image 2026-03-19 at 10 38 02 AM](https://github.com/user-attachments/assets/aed9a46e-c1c5-47aa-b306-a17b59ed38f9)
-![WhatsApp Image 2026-03-19 at 10 38 02 AM (2)](https://github.com/user-attachments/assets/e62e8b95-e947-416e-9818-8bafadae1590)
-![WhatsApp Image 2026-03-19 at 10 38 02 AM (1)](https://github.com/user-attachments/assets/dd0d5b72-0f2b-4bb7-b2c1-2053cab4f118)
-![WhatsApp Image 2026-03-19 at 10 38 00 AM](https://github.com/user-attachments/assets/1b7f8246-797c-455e-a8bd-ee59f51b3fdc)
-![WhatsApp Image 2026-03-19 at 10 37 58 AM](https://github.com/user-attachments/assets/d262b494-733f-41df-9008-596bb1b4dd5b)
-![1](https://github.com/user-attachments/assets/66cdcb4e-5945-4340-aa61-9ccc43df22b0)
+<img src="https://github.com/user-attachments/assets/de040aa4-ec68-48a5-95a9-190d1a920f02" width="500">
+<img src="https://github.com/user-attachments/assets/b594107f-bb09-4184-8d31-772f4c74304d" width="500">
+<img src="https://github.com/user-attachments/assets/75d140ec-317b-4af0-b431-43b232ba687d" width="500">
+<img src="https://github.com/user-attachments/assets/e7708f5a-14da-4f3e-ac35-db56b6c41b68" width="500">
+<img src="https://github.com/user-attachments/assets/9213a81d-f400-4884-be9d-734cb5ae02cc" width="500">
+<img src="https://github.com/user-attachments/assets/aed9a46e-c1c5-47aa-b306-a17b59ed38f9" width="500">
+<img src="https://github.com/user-attachments/assets/66cdcb4e-5945-4340-aa61-9ccc43df22b0" width="500">
+
 
 ---
 
 ### Anexo D — Presentación de Diapositivas
+
 https://www.canva.com/design/DAHDx1mxfrU/_kvbQFFQKFwYRRWyxJNCIg/edit?utm_content=DAHDx1mxfrU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
 ---
 
 ---

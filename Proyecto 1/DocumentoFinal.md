@@ -232,7 +232,8 @@ Al finalizar la exposición, se realizó una validación oral y física: la coor
 
 **Amenazas**
 
-· La energía y atención variante de los niños representó una amenaza constante: a pesar de tener gestos y repeticiones planificadas, existía el riesgo de que el grupo perdiera el hilo del cuento o de las reglas si algún niño se dispersaba o interrumpía.
+· La energía y atención fluctuante de los niños representó una amenaza constante: a pesar de tener gestos y repeticiones planificadas, existía el riesgo de que el grupo perdiera el hilo del cuento o de las reglas si algún niño se dispersaba o interrumpía.
+
 ---
  
 ### 4.2 FODA Grupal

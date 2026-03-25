@@ -69,7 +69,7 @@ Se explicó el tema de cómo nos conectamos a Internet utilizando ejemplos senci
  
 #### Subtema 3 — Los "carteros" del internet *(Jose Carlos González)*
  
-Se explicó el concepto de paquetes de datos mediante la analogía de **sobrecitos de carta**: cuando se envía un mensaje, este se divide en sobrecitos pequeños que viajan por separado y se reúnen al llegar al destino. Se apoyó en una ilustración simple de sobres volando por caminos de colores. No se utilizaron términos técnicos como IP o protocolo en ningún momento.
+En este subtema se explicó de forma sencilla y adaptada a niños pequeños cómo viaja la información en internet mediante la analogía de los sobrecitos de carta, indicando que cuando se envía un mensaje (por ejemplo, “HOLA”), este se divide en partes pequeñas que viajan por separado. Se explicó que cada sobrecito contiene una parte del mensaje y puede tomar diferentes caminos, representados como rutas de colores, lo que permite que lleguen más rápido al destino. Asimismo, se enfatizó que todos los sobrecitos llevan una “dirección”, por lo que, aunque no lleguen en orden, pueden reunirse al final y formar nuevamente el mensaje completo, como si fuera un rompecabezas. La explicación se apoyó en una ilustración simple y colorida para facilitar la comprensión, además de incluir preguntas breves para mantener la atención de los niños. En todo momento se evitó el uso de términos técnicos como IP o protocolos, priorizando un lenguaje claro, visual y adecuado a la edad del público.
  
 #### Subtema 4 — ¿Cómo llega el mensaje? *(Carlos Alberto Alonso)*
  

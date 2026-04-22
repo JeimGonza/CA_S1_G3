@@ -11,55 +11,79 @@ El objetivo de este análisis es identificar los puntos críticos y las oportuni
 
 ### 1. Atención al cliente y venta
 
+# Documentación del Flujo del Sistema Actual
+
+Este documento detalla los procesos operativos actuales del negocio, representados mediante diagramas de flujo y descripciones estructuradas.
+
+---
+
+## 1. Proceso de Atención al Cliente y Venta
+
+Este es el flujo principal de interacción directa con el consumidor. Se caracteriza por ser un proceso manual y dependiente de la memoria del dueño.
+# Flujo del Negocio Actual
+## Librería en Punto
+
+El siguiente diagrama representa el funcionamiento actual de la **Librería en Punto**, basado en la entrevista realizada a su dueño, Luis Enrique Castillo. Actualmente, el negocio opera de forma completamente manual, sin sistemas digitales para inventario, ventas o clientes.
+
+El objetivo de este análisis es identificar los puntos críticos y las oportunidades de mejora que serán abordadas en la solución propuesta.
+
+---
+
+## 1. Atención al cliente y venta
+
+```text
 [Cliente llega al negocio]
-|
-v
+        |
+        v
 [Dueño pregunta qué necesita]
-|
-v
+        |
+        v
 [Busca producto físicamente en vitrina o estantería]
-|
-v
-¿Hay stock?
-/
-SÍ NO
-↓ ↓
-[Anota venta [Ofrece alternativa
-en papel o o dice "no hay"]
-mentalmente]
-↓
+        |
+        v
+      ¿Hay stock?
+       /        \
+     SÍ          NO
+      |           |
+      v           v
+[Anota venta    [Ofrece alternativa
+ en papel o      o dice "no hay"]
+ mentalmente]
+      |
+      v
 [Calcula total manualmente]
-↓
+      |
+      v
 [Cliente paga en efectivo]
-↓
+      |
+      v
 [Dueño entrega producto]
-↓
-FIN
-
-
+      |
+      v
+      FIN
 ---
 
 ### 2. Control de inventario (proceso paralelo)
 
 
 [Revisión periódica (cada cierto tiempo)]
-|
-v
+        |
+        v
 [Dueño revisa físicamente todo el stock]
-|
-v
+        |
+        v
 [Anota en papel lo que hay y lo que falta]
-|
-v
+        |
+        v
 [Decide qué productos necesita comprar]
-|
-v
+        |
+        v
 [Llama a proveedor o va a centro de abastecimiento]
-|
-v
+        |
+        v
 [Compra y abastece el negocio]
-|
-v
+        |
+        v
 [FIN del ciclo]
 
 
@@ -68,17 +92,17 @@ v
 ### 3. Preparación para temporadas altas
 
 [Temporadas altas: enero y diciembre]
-|
-v
+        |
+        v
 [Dueño compra con meses de anticipación (octubre-noviembre)]
-|
-v
+        |
+        v
 [Almacena mayor cantidad de útiles escolares]
-|
-v
+        |
+        v
 [No utiliza sistema de predicción ni alertas]
-|
-v
+        |
+        v
 [Proceso basado únicamente en experiencia personal]
 
 ---
@@ -86,17 +110,18 @@ v
 ### 4. Manejo de productos no vendidos
 
 [Producto pasa mucho tiempo en vitrina]
-|
-v
+        |
+        v
 [Dueño evalúa estado del producto]
-|
-v
-¿Está en buen estado?
-/
-SÍ NO
-↓ ↓
-[Se vende [Se desecha
-en oferta] el producto]
+        |
+        v
+   ¿Está en buen estado?
+    /              \
+   SÍ               NO
+   |                |
+   v                v
+[Se vende       [Se desecha
+ en oferta]      el producto]
 
 ---
 
@@ -111,35 +136,38 @@ v
 [Atención y búsqueda física del producto]
 |
 v
-¿Hay disponibilidad?
-/
-SÍ NO
-↓ ↓
-[Venta manual [Se pierde la
-y cobro en venta]
-efectivo]
-↓ ↓
-[Entrega] [Cliente se retira]
-↓ ↓
-└──────┬────────┘
-v
-FIN
+   ¿Hay disponibilidad?
+    /              \
+   SÍ               NO
+   |                |
+   v                v
+[Venta manual    [Se pierde la
+ y cobro en       venta]
+ efectivo]
+   |                |
+   v                v
+[Entrega]        [Cliente se retira]
+   |                |
+   v                v
+   └───────┬────────┘
+           v
+         FIN
 
 ─────────────────────────────────────────
 
-[PROCESO PARALELO DE INVENTARIO]
+PROCESO PARALELO DE INVENTARIO:
 
 [Revisión física periódica]
-|
-v
+        |
+        v
 [Registro manual en papel]
-|
-v
+        |
+        v
 [Decisión de compra empírica]
-|
-v
+        |
+        v
 [Abastecimiento]
-
+─────────────────────────────────────────
 
 ---
 

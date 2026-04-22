@@ -16,7 +16,7 @@ Dado que el objetivo de la toma de requerimientos es identificar necesidades con
 
 ---
 
-## Negocio 2 — Seleccionado ✅
+## Negocio 2 — Seleccionado
 
 ### Motivo de selección
 

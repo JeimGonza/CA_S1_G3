@@ -9,7 +9,6 @@
 **Ciclo:** 2026  
 
 **Descripción:**  
-
 Enlaces a los videos de los elevator pitch individuales de cada uno de los integrantes del grupo
 
 - Jeimy Mariana González  lópez | 202504807 | https://youtu.be/iFRYwvE1FAQ

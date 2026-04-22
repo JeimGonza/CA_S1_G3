@@ -64,3 +64,5 @@ Aplicar principios de comunicación asertiva para analizar problemas reales, est
 
 ## Contenido multimedia
 Todo el contenido multimedia incluido en el proyecto cuenta con su respectiva descripción y justificación, cumpliendo con los lineamientos establecidos.
+
+Actualización: 22 de abril

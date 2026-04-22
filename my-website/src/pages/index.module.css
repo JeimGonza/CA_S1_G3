@@ -1,0 +1,91 @@
+.main {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.title {
+  font-size: 2.8rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  color: #b0b0b0;
+  margin-bottom: 50px;
+  font-size: 1.1rem;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 320px;
+  padding: 35px 25px;
+  border-radius: 20px;
+  color: white;
+  text-decoration: none;
+
+  /* 🔥 ESTILO PRO */
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+  backdrop-filter: blur(10px);
+
+  transition: all 0.35s ease;
+  transform: translateY(0);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Colores con degradado (más moderno) */
+.green {
+  background: linear-gradient(135deg, #4CAF50, #2e7d32);
+}
+
+.blue {
+  background: linear-gradient(135deg, #2196F3, #1565c0);
+}
+
+.red {
+  background: linear-gradient(135deg, #f44336, #b71c1c);
+}
+
+/* 🔥 Hover avanzado */
+.card:hover {
+  transform: translateY(-10px) scale(1.05);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+}
+
+/* ✨ efecto de brillo al pasar el mouse */
+.card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 200%;
+  height: 100%;
+  background: linear-gradient(
+    120deg,
+    transparent,
+    rgba(255,255,255,0.25),
+    transparent
+  );
+  transition: 0.5s;
+}
+
+.card:hover::before {
+  left: 100%;
+}
+
+/* texto */
+.card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 0.95rem;
+  opacity: 0.9;
+}

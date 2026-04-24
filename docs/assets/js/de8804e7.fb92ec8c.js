@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkg_3_proyecto2=self.webpackChunkg_3_proyecto2||[]).push([["411"],{7051(e){e.exports=JSON.parse('{"metadata":{"permalink":"/CarlosLNS-CA_S1_G3/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

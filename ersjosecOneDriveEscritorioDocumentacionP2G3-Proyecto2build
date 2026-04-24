@@ -1,0 +1,606 @@
+[33mcommit da697f9c7b8a86b97ddb04c3b102a4ec1fb59d95[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Jose Carlos González López <3695531010101@ingenieria.usac.edu.gt>
+Date:   Fri Apr 24 02:17:41 2026 -0600
+
+    add(site): web-site
+
+[33mcommit 84f795d177739d4a7cd1f31948df71e1282aca2a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Wed Apr 22 19:47:42 2026 -0600
+
+    Arreglo Link
+
+[33mcommit ceb66ada4f52cd35f97338e38119a53cc90cf780[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 19:34:23 2026 -0600
+
+    actualizo repo principal
+
+[33mcommit c5a94133e4367c72c7e885bd765a41e7f5eca01c[m[33m ([m[1;31morigin/principal[m[33m)[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 17:54:43 2026 -0600
+
+    cambio readme
+
+[33mcommit 259cea20cab6c1a019b1a47081b3602c09d0bbdc[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 17:29:55 2026 -0600
+
+    Fix: Ajustando permisos y legacy provider
+
+[33mcommit cbbfd736ad593aeefac3baa63aa8b972a4cefd4a[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 17:21:11 2026 -0600
+
+    Corrigiendo rama y nombre de carpeta
+
+[33mcommit 1e39a560dc9f9b0caeaaaacc1dc553ad8e84d171[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 17:18:37 2026 -0600
+
+    Forzando inicio de Actions
+
+[33mcommit 399d8b8abf02f7b3891f7faf0dc62720f8972a48[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 13:07:12 2026 -0600
+
+    Fix: Forzando build y opciones de node
+
+[33mcommit 9b751a2b0a72a7a721674d237ad40ba084247fcb[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 13:02:51 2026 -0600
+
+    Fix: Actualizando dependencias para corregir error de Progress Plugin
+
+[33mcommit f777741f90324944419e3bc4d2e90ae1ad48950a[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 12:55:48 2026 -0600
+
+    Fix: yml actualizado con rutas correctas sin cache
+
+[33mcommit bb1280f57149a0a1cb54207711fa77eb06e5b808[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 12:51:56 2026 -0600
+
+    Moviendo .github para el deploy final
+
+[33mcommit 44e13f162c8caefef2e47f00dbffe0829abbcb87[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 12:47:56 2026 -0600
+
+    Moviendo website a Proyecto2 y actualizando rutas de deploy
+
+[33mcommit 34fe364274ed108d457650630a7eae1f3cf38faa[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 12:43:29 2026 -0600
+
+    Restauración de los proyectos
+
+[33mcommit 30498e06a39b86087996ea1c53c5e94a551f28f7[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 12:29:46 2026 -0600
+
+    agragado deploy
+
+[33mcommit 422a2b6ed1cc45a4c7c9fefdf2cdc6a984fef2bc[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 12:15:35 2026 -0600
+
+    Sidebar corregido
+
+[33mcommit 903085288ca84b0e4a1d36610ea76a61beb9bd23[m
+Author: Carlos Alonso <tu_correo@gmail.com>
+Date:   Wed Apr 22 11:58:47 2026 -0600
+
+    Estructura final docusaurus
+
+[33mcommit 33c592e8ef407051e9fa0ca3a74ee60eb3ba4ddc[m
+Author: CarlosLNS <charly.brown193774@gmail.com>
+Date:   Wed Apr 22 11:48:46 2026 -0600
+
+    Rename Preguntas.md to preguntas.md
+    
+    cambio compatibilidad
+
+[33mcommit 359fe704b5e79ca07a54d89ad081398d8ccbc045[m
+Author: CarlosLNS <charly.brown193774@gmail.com>
+Date:   Wed Apr 22 11:48:26 2026 -0600
+
+    Rename Justificacion.md to justificacion.md
+
+[33mcommit 86171a412f15e321bb05cf08fa37160c2fa12e6a[m
+Author: CarlosLNS <charly.brown193774@gmail.com>
+Date:   Wed Apr 22 11:48:14 2026 -0600
+
+    Rename Evidencias.md to evidencias.md
+    
+    cambio compatibilidad
+
+[33mcommit 217fa2f130778d0c09f7be777ce827e60f38d5c2[m
+Author: CarlosLNS <charly.brown193774@gmail.com>
+Date:   Wed Apr 22 11:47:22 2026 -0600
+
+    Rename Post-Mortem.md to documento-postmortem.md
+    
+    cambio compatibilidad
+
+[33mcommit 89f5749c2e6691b324e75dd509fa12db91169328[m
+Author: CarlosLNS <charly.brown193774@gmail.com>
+Date:   Wed Apr 22 11:45:24 2026 -0600
+
+    Rename FlujoSolución.md to flujo-solucion.md
+    
+    cambio nombre compatible
+
+[33mcommit c90396e34b192c94a6126d8b2bbbe5667052e5eb[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Wed Apr 22 11:39:00 2026 -0600
+
+    Renombrar carpetas para compatibilidad
+
+[33mcommit 2ce0a00599f9fa23e9e971c45c7ef88cd40504c0[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Wed Apr 22 11:03:00 2026 -0600
+
+    Cambio de nombre en la carpeta de Proyecto 2 para evitar conflictos con docusaurio
+
+[33mcommit d1f023c8afa3e42713dd75e2c4b68beabbe77715[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 23:30:28 2026 -0600
+
+    Add coordinator and member details to README
+
+[33mcommit 93a53e16dd4378b0464707f03cae9545ca3af39b[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 23:30:09 2026 -0600
+
+    Formato
+
+[33mcommit 647cf0261b290355e709261a8062e5b0d3c28c74[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 23:29:20 2026 -0600
+
+    Update README with project links
+    
+    Added links to Notion and Docusaurus in README.
+
+[33mcommit 729dcf5ca5007e38501da81ca628baf650324e08[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 23:29:07 2026 -0600
+
+    Update README
+
+[33mcommit b4e01c9070eb1df306f28ea025da4ef0d8efdda9[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 23:04:35 2026 -0600
+
+    Arreglo Formato
+
+[33mcommit 2c1d7647809e9584f38ee5cf199d1dc6d4db4cdd[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 23:04:15 2026 -0600
+
+    Descripción
+
+[33mcommit e73392a62593e53e0552c5db4188ca557155b59e[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 23:03:17 2026 -0600
+
+    Arreglo formato
+
+[33mcommit d6f11c44e8b3d90daedbc0dc3d2225c3b2f9e64d[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 23:02:48 2026 -0600
+
+    arreglo jd.md
+
+[33mcommit d141c918db439dc60d7e505f9943e146f1a63917[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 23:01:44 2026 -0600
+
+    Junta directiva
+
+[33mcommit f5dfa6cef921c26e716f1fa40422926c92360e9c[m
+Author: AstrydSanz <sanz.astrid00@gmail.com>
+Date:   Tue Apr 21 23:01:04 2026 -0600
+
+    Update flujo-negocio.md
+
+[33mcommit a07a3586044ebc7c4b1639d9bf755331baba412e[m
+Author: AstrydSanz <sanz.astrid00@gmail.com>
+Date:   Tue Apr 21 22:50:43 2026 -0600
+
+    Update flujo-negocio.md
+
+[33mcommit f263cf0aa8e7b3285b50a5144607e01ffc2b4128[m
+Author: AstrydSanz <sanz.astrid00@gmail.com>
+Date:   Tue Apr 21 22:44:46 2026 -0600
+
+    Update flujo-negocio.md
+
+[33mcommit a5d30220576ea9a8a5aae6c5c1d997f9b6357f3a[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 22:43:09 2026 -0600
+
+    Cambio de ruta Elevator Pitch Individual
+
+[33mcommit c629b18a61572e25c7c80c8b6d4ba2b03ede4326[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 22:32:48 2026 -0600
+
+    Delete Proyecto 2 /03-propuesta/temp02.md
+
+[33mcommit becac80b61576424e37354fe0c2d45eceef1dedf[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 22:31:36 2026 -0600
+
+    Add files via upload
+
+[33mcommit ee2c68fe82a543005e4bf72774533d9ffa80d795[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 22:28:34 2026 -0600
+
+    Arreglo
+
+[33mcommit b7b1b528e2352b2e2fa0c4052930a9bc9007059e[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 22:21:59 2026 -0600
+
+    Delete Proyecto 2 /02-analisis/temp02.md
+
+[33mcommit be2ca3028caa792cfbb49048100535986be10643[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 22:21:45 2026 -0600
+
+    Delete Proyecto 2 /01-recoleccion-informacion/temp1.md
+
+[33mcommit b41cdfd538243577515d1ee4ef431731a6d61629[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 22:21:03 2026 -0600
+
+    Análisis
+
+[33mcommit e3e7abfaf31e031c51f6adf86abdc7286ec40591[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 22:20:09 2026 -0600
+
+    Planificación
+
+[33mcommit 9f6bb207245d5e06ddd79a68206ddc06be216803[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 19:57:10 2026 -0600
+
+    Directorio 03
+
+[33mcommit 3071686b944cf85f1c7b5d8508a642656a257347[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 19:56:43 2026 -0600
+
+    directorio 02
+
+[33mcommit 729593e8334cc1713f2ea5cc9d5148a6fa376a7b[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 19:56:13 2026 -0600
+
+    Directorio 01
+
+[33mcommit 1f2bbfc235fc5976f890f2a010c4e2068c40b7cc[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Apr 21 19:55:34 2026 -0600
+
+    Create README.md
+
+[33mcommit 8742ed857c7a93df4e632d2d4f0fb17778cfbfb5[m
+Author: Yukiko <niconiconini2006@gmail.com>
+Date:   Sun Apr 12 23:27:28 2026 -0600
+
+    Add Danya Nicolle Gómez Ruiz to PitchIndividual.md
+
+[33mcommit dd998f473bdba7733b5b73b8c6809cc276fff5ab[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Sun Apr 12 22:52:57 2026 -0600
+
+    Pitch Individual Jose González
+
+[33mcommit ee16c8d940e21bb684376fad219e117247bb9c46[m
+Author: AstrydSanz <sanz.astrid00@gmail.com>
+Date:   Sun Apr 12 21:48:53 2026 -0600
+
+    Update PitchIndividual.md
+
+[33mcommit a54dbfc2008fdf497b292bf5b22485133b055566[m
+Author: AngeeChojolan05018 <3902547890101@ingenieria.usac.edu.gt>
+Date:   Sun Apr 12 21:27:25 2026 -0600
+
+    Update PitchIndividual.md
+
+[33mcommit 05fc0e35544aade5acb8d51504376b034f8a6f91[m
+Author: AngeeChojolan05018 <3902547890101@ingenieria.usac.edu.gt>
+Date:   Sun Apr 12 21:22:42 2026 -0600
+
+    Update PitchIndividual.md
+
+[33mcommit da6e4fe760c42008d2dd91e7d7832163b68922a5[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Apr 12 20:32:29 2026 -0600
+
+    Update PitchIndividual.md
+    
+    Video de youtube publico
+
+[33mcommit 1a222b18a08f137501b425a0e08bb3496fc84854[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Apr 12 19:35:56 2026 -0600
+
+    Update and rename temporal.txt to PitchIndividual.md
+
+[33mcommit 47f984af45f6d4ad53bbc84934560489852f0c93[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Sun Apr 12 16:22:27 2026 -0600
+
+    Creación espacio proyecto 2
+
+[33mcommit cc5f0547c57baf61db12ed7d7c12b4b38f829b31[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Mar 24 20:52:02 2026 -0600
+
+    Documento Final
+
+[33mcommit 1745e928919aacf74009a921993701f4da8a7751[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Mar 24 20:50:55 2026 -0600
+
+    Documento Final
+
+[33mcommit 18b6bdd299837a58c61fcbc765550ac095f93c5f[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Mar 24 20:49:13 2026 -0600
+
+    Create archivo.txt
+
+[33mcommit a78993aaeb77a1fd47f33945bbcf94a904a7a18e[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Tue Mar 24 20:48:34 2026 -0600
+
+    Documento FInal
+
+[33mcommit 707502495f8d87e7580543cadaba03d655cb44ad[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Tue Mar 24 19:56:19 2026 -0600
+
+    Update DocumentoFinal.md
+
+[33mcommit 7e03fbe6c51fce6cc178e3e3e18e0b26f546e8be[m
+Author: Yukiko <niconiconini2006@gmail.com>
+Date:   Tue Mar 24 16:42:57 2026 -0600
+
+    update
+    
+    by danya
+
+[33mcommit dd9fa7a1bdcea520c16df671e32cd223df8a1d23[m
+Author: Yukiko <niconiconini2006@gmail.com>
+Date:   Tue Mar 24 15:41:34 2026 -0600
+
+    Update
+    
+    Update
+
+[33mcommit f31cd8cbcd0d790fda2ae67f9572803a1f7d31fe[m
+Author: 3024746170102-commits <3024746170102@ingenieria.usac.edu.gt>
+Date:   Mon Mar 23 22:54:23 2026 -0600
+
+    Update DocumentoFinal.md
+
+[33mcommit 79aeb5ce641fcba2145ca37579581208ebc0bdc2[m
+Author: 3024746170102-commits <3024746170102@ingenieria.usac.edu.gt>
+Date:   Mon Mar 23 22:53:39 2026 -0600
+
+    Update DocumentoFinal.md
+
+[33mcommit c4ab72d4bdbcd587a056b55abb8ba8f10734d61d[m
+Author: 3024746170102-commits <3024746170102@ingenieria.usac.edu.gt>
+Date:   Mon Mar 23 22:50:49 2026 -0600
+
+    Update DocumentoFinal.md
+
+[33mcommit 8774b4536089429f3f1721db4768cbc0e8166d34[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Mon Mar 23 17:50:25 2026 -0600
+
+    Update planificacion.md
+
+[33mcommit 07e7c4211e9e698918c914ce3fe5131248dc0715[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Mon Mar 23 17:48:09 2026 -0600
+
+    Update planificacion.md
+
+[33mcommit 44114c974a9c171d2f0a71a9ec92d3d0c0b3514c[m
+Author: Yukiko <niconiconini2006@gmail.com>
+Date:   Mon Mar 23 17:47:05 2026 -0600
+
+    Revise and update final report for Project No. 1 by Nico
+
+[33mcommit 3564bc954d174d03d6f0bb7b3fb97f6c8bf1eb97[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Mon Mar 23 17:40:05 2026 -0600
+
+    Update DocumentoFinal.md
+
+[33mcommit c18fb9deea52f7fa5c86e1281fa712a72ca98a56[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Mon Mar 23 17:29:25 2026 -0600
+
+    Update DocumentoFinal.md
+
+[33mcommit 23672b1133b0893df4b12c11972cbd91f3bd36f0[m
+Author: Yukiko <niconiconini2006@gmail.com>
+Date:   Mon Mar 23 10:38:10 2026 -0600
+
+    Edit Danya
+
+[33mcommit 08c1a0c444f745a403994e8adf86400377637fa2[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Mon Mar 23 09:38:16 2026 -0600
+
+    arreglo Jose González
+
+[33mcommit 135f9c5d291a9150ed39ac1ef29693365a3677c1[m
+Author: JoseCar729 <3695531010101@ingenieria.usac.edu.gt>
+Date:   Mon Mar 23 09:34:51 2026 -0600
+
+    Aporte Jose Carlos González López
+
+[33mcommit 1782e059ddd844698fa72966b43651d1f872a90e[m
+Author: AngeeChojolan05018 <3902547890101@ingenieria.usac.edu.gt>
+Date:   Mon Mar 23 00:25:32 2026 -0600
+
+    Revise y actualice el Informe Final del Proyecto 1
+
+[33mcommit 8e50826a2c250be0f26ac915185107d106b66281[m
+Author: AngeeChojolan05018 <3902547890101@ingenieria.usac.edu.gt>
+Date:   Mon Mar 23 00:17:57 2026 -0600
+
+    Update DocumentoFinal.md
+
+[33mcommit d5310bd8f95f2aeecda3b195babd17031ef866ac[m
+Author: AngeeChojolan05018 <3902547890101@ingenieria.usac.edu.gt>
+Date:   Mon Mar 23 00:13:10 2026 -0600
+
+    Revise and enhance final report for Project No. 1
+    
+    Updated the final report for Project No. 1, including detailed sections on objectives, theme description, FODA analysis, conclusions, and annexes. Enhanced formatting and added content for clarity.
+
+[33mcommit 0bae52e33118ada78e79dc02319f526d55181622[m
+Author: CarlosLNS <charly.brown193774@gmail.com>
+Date:   Sun Mar 22 21:52:30 2026 -0600
+
+    carnet
+
+[33mcommit 675dc483a3926de0d6ca96dc9b019d30a23326d3[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Mar 22 21:51:21 2026 -0600
+
+    Update planificacion.md
+
+[33mcommit d56e5d7db2e29414d1f669a15381b7760cccb065[m
+Author: CarlosLNS <charly.brown193774@gmail.com>
+Date:   Sun Mar 22 21:51:17 2026 -0600
+
+    fodas y carnet
+
+[33mcommit 5013b9b3f8d9c2ac0afcd6d36c2ec4770696e075[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Mar 22 21:49:07 2026 -0600
+
+    Update DocumentoFinal.md
+
+[33mcommit ba86ba730ead0e80a68d69bd22e7f0b939ceb14c[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Mar 22 21:38:22 2026 -0600
+
+    Update DocumentoFinal.md
+
+[33mcommit df6917797a1b2d369c2d6ad8649db36ed43654f2[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Mar 22 21:19:20 2026 -0600
+
+    Delete Proyecto 1/Proyecto 1 directory
+
+[33mcommit c8e37dbe4bf795f18a84862dfeb4f4c99e90fe35[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Mar 22 21:19:02 2026 -0600
+
+    Add files via upload
+
+[33mcommit e318cdf75d4715dc7dbd551389e69785a5537b28[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Mar 22 21:18:06 2026 -0600
+
+    Delete Proyecto 1 directory
+
+[33mcommit 6e34158ae0e0b71d54894e2a0b3011887468c95b[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Mar 22 21:17:53 2026 -0600
+
+    Delete DocumentoFinal.md
+
+[33mcommit 6e612cd1bde157a986bbdc8379a37276356348f7[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Mar 22 21:17:39 2026 -0600
+
+    Delete planificacion.md
+
+[33mcommit 86b3fbcb036f3bcccbdadc742ba54efaa329005b[m
+Merge: f6069ce e6d2c6d
+Author: Jeimy <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Mar 22 21:14:49 2026 -0600
+
+    Commit
+
+[33mcommit f6069ce723396b0aaa60a72b3c4fccc871b70fc0[m
+Author: Jeimy <jeimy.gonzalez.lopez@gmail.com>
+Date:   Sun Mar 22 21:01:42 2026 -0600
+
+    Commit
+
+[33mcommit e6d2c6d73f9d84fc92fcfffa87b8b1e9f67d41b5[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Thu Mar 19 12:36:17 2026 -0600
+
+    Update planificacion.md
+
+[33mcommit 233c947624430412c3acf81ef0d935cf61923d91[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Thu Mar 19 12:31:21 2026 -0600
+
+    Update planificacion.md
+
+[33mcommit f60b17fef8ec87696000df9bd408d5427c5a537b[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Thu Mar 19 12:30:40 2026 -0600
+
+    Update planificacion.md
+
+[33mcommit 2f131222b0ad40a45280a52d30850f35b80f052a[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Thu Mar 12 16:35:27 2026 -0600
+
+    Delete planificacion.md
+
+[33mcommit c24e9aa437b124345529e1c583b785a39734147e[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Thu Mar 12 16:35:13 2026 -0600
+
+    Delete Proyecto1
+
+[33mcommit 556193bd221946952b6617981fb75a5d1be85108[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Thu Mar 12 16:34:58 2026 -0600
+
+    Add files via upload
+
+[33mcommit d39aa9224114729145bcd2405f4634efbbf72aff[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Thu Mar 12 16:27:33 2026 -0600
+
+    Create planificacion.md
+
+[33mcommit cde177e262ee04013bdca5821fb2f144f9c20d76[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Thu Mar 12 16:25:09 2026 -0600
+
+    Delete README.md
+
+[33mcommit 467d9088fdd0772132395a6d26029336e072d98f[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Thu Mar 12 16:23:21 2026 -0600
+
+    Planificación README.md
+
+[33mcommit a56c819b7d85df64ffaf350763a8de5bf1be0536[m
+Author: Jeimy González <jeimy.gonzalez.lopez@gmail.com>
+Date:   Thu Mar 12 16:14:29 2026 -0600
+
+    Create  Proyecto1

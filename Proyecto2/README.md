@@ -12,8 +12,6 @@
 - 202505069 - Jose Carlos González LópeZ
 - 202503869 - Danya Nicolle Gómez Ruiz
 
-**Link Notion:** https://www.notion.so/Proyecto-2-9343ef91e23383ac9e89810e3d9d2ed5
-
 ## Negociación Técnica en Equipos de Desarrollo de Software
  
 ## Descripción del proyecto
@@ -54,6 +52,7 @@ En esta fase se trabajó en:
 ### 03 - Propuesta
 - `FlujoSolución.md`
 - `Post-Mortem.md`
+- `Acuerdos-tradeoffs.md`
 - `elevator-pitch.md`
 - `junta-directiva.md`
 
